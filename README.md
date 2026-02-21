@@ -11,4 +11,3 @@
 ![4](https://github.com/shamiraty/AnalyticsDashboard-with-Excel-file/assets/129072179/29faedca-be29-4c65-8e85-2de48315542c)
 ![6](https://github.com/shamiraty/AnalyticsDashboard-with-Excel-file/assets/129072179/c3c05845-9d39-4ec0-a978-3ad70be19968)
 ![5](https://github.com/shamiraty/AnalyticsDashboard-with-Excel-file/assets/129072179/a7cfa34c-c15d-4ac5-89cd-2d34901386f1)
-mohammed
